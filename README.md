@@ -5,7 +5,7 @@ User Interface
 Figma - https://www.figma.com/file/HmJl1YcejIXNc6Hr1ZQpjm/BookStore-UI?type=design&node-id=0%3A1&mode=design&t=DUj3MYs02a04qpfj-1
 
 ## Objective
-# The goal of this project is to create a responsive online bookstore application. This application fetches data from Google Books API, displays it in an elegant UI as per the provided Figma design, provides a search feature, and gives detailed information about each book.
+## The goal of this project is to create a responsive online bookstore application. This application fetches data from Google Books API, displays it in an elegant UI as per the provided Figma design, provides a search feature, and gives detailed information about each book.
 
 # Project Brief
 Use the Google Books API to fetch and display data about books.
